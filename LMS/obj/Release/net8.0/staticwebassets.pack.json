@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\LMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LMS.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\001-dashboard.png",
+      "PackagePath": "staticwebassets\\001-dashboard.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\004-user-interface.png",
+      "PackagePath": "staticwebassets\\004-user-interface.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\007-destination.png",
+      "PackagePath": "staticwebassets\\007-destination.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\25Z_2012.w003.n001.76B.p12 1.png",
+      "PackagePath": "staticwebassets\\25Z_2012.w003.n001.76B.p12 1.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\001-dashboard.png",
+      "PackagePath": "staticwebassets\\Images\\001-dashboard.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\004-user-interface.png",
+      "PackagePath": "staticwebassets\\Images\\004-user-interface.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\007-destination.png",
+      "PackagePath": "staticwebassets\\Images\\007-destination.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\25Z_2012.w003.n001.76B.p12 1.png",
+      "PackagePath": "staticwebassets\\Images\\25Z_2012.w003.n001.76B.p12 1.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\checked.png",
+      "PackagePath": "staticwebassets\\Images\\checked.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\left-top-image.png",
+      "PackagePath": "staticwebassets\\Images\\left-top-image.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\loginDark_bg.png",
+      "PackagePath": "staticwebassets\\Images\\loginDark_bg.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\loginDark_bg2.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginDark_bg2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\loginPh.png",
+      "PackagePath": "staticwebassets\\Images\\loginPh.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\mobile-app-mockup.jpg",
+      "PackagePath": "staticwebassets\\Images\\mobile-app-mockup.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\password-2.png",
+      "PackagePath": "staticwebassets\\Images\\password-2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\password.png",
+      "PackagePath": "staticwebassets\\Images\\password.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\screen1.png",
+      "PackagePath": "staticwebassets\\Images\\screen1.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\screen2.png",
+      "PackagePath": "staticwebassets\\Images\\screen2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\user-2.png",
+      "PackagePath": "staticwebassets\\Images\\user-2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\Images\\user.png",
+      "PackagePath": "staticwebassets\\Images\\user.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\checked.png",
+      "PackagePath": "staticwebassets\\checked.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\MasterPage.css",
+      "PackagePath": "staticwebassets\\css\\MasterPage.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\newlogin.css",
+      "PackagePath": "staticwebassets\\css\\newlogin.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\left-top-image.png",
+      "PackagePath": "staticwebassets\\left-top-image.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\loginDark_bg.png",
+      "PackagePath": "staticwebassets\\loginDark_bg.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\loginDark_bg2.jpg",
+      "PackagePath": "staticwebassets\\loginDark_bg2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\loginPh.png",
+      "PackagePath": "staticwebassets\\loginPh.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\mobile-app-mockup.jpg",
+      "PackagePath": "staticwebassets\\mobile-app-mockup.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\password-2.png",
+      "PackagePath": "staticwebassets\\password-2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\password.png",
+      "PackagePath": "staticwebassets\\password.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\screen1.png",
+      "PackagePath": "staticwebassets\\screen1.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\screen2.png",
+      "PackagePath": "staticwebassets\\screen2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\user-2.png",
+      "PackagePath": "staticwebassets\\user-2.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\LMS\\LMS\\wwwroot\\user.png",
+      "PackagePath": "staticwebassets\\user.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.LMS.props",
+      "PackagePath": "build\\LMS.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LMS.props",
+      "PackagePath": "buildMultiTargeting\\LMS.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.LMS.props",
+      "PackagePath": "buildTransitive\\LMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
